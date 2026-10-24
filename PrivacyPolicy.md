@@ -18,8 +18,8 @@
 
 # Privacy Policy for TypeLeague
 
-**Effective Date:** [To be determined]
-**Last Updated:** [To be determined]
+**Effective Date:** October 25, 2026
+**Last Updated:** October 25, 2026
 
 Thank you for trusting TypeLeague (“we,” “us,” or the “App”). We take our responsibility to protect your data seriously.
 
@@ -167,7 +167,7 @@ Some limited information may be retained temporarily when required for security,
 
 If you have any questions about this Privacy Policy or how we handle your data, you may contact us at:
 
-**Support Email:** [Enter the App’s support email address]
+**Support Email:** support@typeleague.net
 
 ---
 
@@ -177,8 +177,8 @@ If you have any questions about this Privacy Policy or how we handle your data, 
 
 # سياسة الخصوصية لتطبيق TypeLeague
 
-**تاريخ السريان:** [سيتم تحديده]
-**آخر تحديث:** [سيتم تحديده]
+**تاريخ السريان:** 25 أكتوبر 2026
+**آخر تحديث:** 25 أكتوبر 2026
 
 نشكرك على ثقتك بتطبيق TypeLeague، والمشار إليه في هذه السياسة باسم «نحن» أو «التطبيق». نحن نأخذ مسؤولية حماية بياناتك على محمل الجد.
 
@@ -326,7 +326,7 @@ TypeLeague هو تطبيق تنافسي.
 
 إذا كانت لديك أي أسئلة حول سياسة الخصوصية هذه أو حول كيفية تعاملنا مع بياناتك، يمكنك التواصل معنا عبر:
 
-**البريد الإلكتروني للدعم:** [أدخل بريد الدعم الخاص بالتطبيق]
+**البريد الإلكتروني للدعم:** support@typeleague.net
 
 ---
 
@@ -336,8 +336,8 @@ TypeLeague هو تطبيق تنافسي.
 
 # TypeLeague Gizlilik Politikası
 
-**Yürürlük Tarihi:** [Belirlenecek]
-**Son Güncelleme:** [Belirlenecek]
+**Yürürlük Tarihi:** 25 Ekim 2026
+**Son Güncelleme:** 25 Ekim 2026
 
 TypeLeague uygulamasına duyduğunuz güven için teşekkür ederiz. Bu Gizlilik Politikası kapsamında “biz” veya “Uygulama” ifadeleri TypeLeague’i ifade eder. Verilerinizi koruma sorumluluğumuzu ciddiye alıyoruz.
 
@@ -485,7 +485,7 @@ Güvenlik, dolandırıcılığın önlenmesi, yasal yükümlülüklerin yerine g
 
 Bu Gizlilik Politikası veya verilerinizi nasıl işlediğimiz hakkında herhangi bir sorunuz varsa bizimle şu adresten iletişime geçebilirsiniz:
 
-**Destek E-postası:** [Uygulamanın destek e-posta adresini girin]
+**Destek E-postası:** support@typeleague.net
 
 ---
 
@@ -495,8 +495,8 @@ Bu Gizlilik Politikası veya verilerinizi nasıl işlediğimiz hakkında herhang
 
 # Datenschutzerklärung für TypeLeague
 
-**Gültig ab:** [Wird noch festgelegt]
-**Zuletzt aktualisiert:** [Wird noch festgelegt]
+**Gültig ab:** 25. Oktober 2026
+**Zuletzt aktualisiert:** 25. Oktober 2026
 
 Vielen Dank für Ihr Vertrauen in die TypeLeague-App. In dieser Datenschutzerklärung beziehen sich die Begriffe „wir“, „uns“ und „App“ auf TypeLeague. Wir nehmen unsere Verantwortung für den Schutz Ihrer Daten sehr ernst.
 
@@ -644,7 +644,7 @@ Bestimmte begrenzte Informationen können vorübergehend aufbewahrt werden, wenn
 
 Wenn Sie Fragen zu dieser Datenschutzerklärung oder zu unserem Umgang mit Ihren Daten haben, können Sie uns unter folgender Adresse kontaktieren:
 
-**Support-E-Mail:** [Support-E-Mail-Adresse der App eintragen]
+**Support-E-Mail:** support@typeleague.net
 
 ---
 
@@ -654,8 +654,8 @@ Wenn Sie Fragen zu dieser Datenschutzerklärung oder zu unserem Umgang mit Ihren
 
 # Politique de confidentialité de TypeLeague
 
-**Date d’entrée en vigueur :** [À déterminer]
-**Dernière mise à jour :** [À déterminer]
+**Date d’entrée en vigueur :** 25 octobre 2026
+**Dernière mise à jour :** 25 octobre 2026
 
 Nous vous remercions de la confiance que vous accordez à l’application TypeLeague. Dans la présente Politique de confidentialité, les termes « nous », « notre » et « l’Application » désignent TypeLeague. Nous prenons très au sérieux notre responsabilité concernant la protection de vos données.
 
@@ -803,7 +803,7 @@ Certaines informations limitées peuvent être conservées temporairement lorsqu
 
 Si vous avez des questions concernant la présente Politique de confidentialité ou la manière dont nous traitons vos données, vous pouvez nous contacter à l’adresse suivante :
 
-**Adresse e-mail d’assistance :** [Saisissez l’adresse e-mail d’assistance de l’Application]
+**Adresse e-mail d’assistance :** support@typeleague.net
 
 ---
 
